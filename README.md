@@ -10,12 +10,12 @@
 - 📧 Conta-te me através do e-mail: **julymss95@gmail.com** ou no telefone 📱 +55 (61) 98203-0314 (número com WhatsApp).
 - 🚀 Vamos nessa!! #TechGirl 🥰
 
-
-<h3 align="center">Redes Sociais:</h3>
- <a href="https://www.linkedin.com/in/juliana-maria-0bb432176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="https://api.whatsapp.com/send?phone=5561982030314" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- <a href="https://www.instagram.com/mssjuliana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<div align= "center">
+ <h3 align="center">Redes Sociais:</h3>
+  <a href="https://www.linkedin.com/in/juliana-maria-0bb432176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://api.whatsapp.com/send?phone=5561982030314" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/mssjuliana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 <h3 align="left">Habilidades:</h3>
 - Java <br>
