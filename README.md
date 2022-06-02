@@ -7,7 +7,7 @@
 - 📚 Estou aprendendo React.JS / Node.JS / JAVA / SpringBoot
 - 🤝 Busco dicas e ajuda para melhorar meus códigos, projetos e melhor me desenvolver
 - 💯 Disposta à troca de conhecimentos 
-- 📧 Conta-te me através do e-mail: **julymss95@gmail.com** ou no telefone 📱 +55 (61) 98203-0314 (número com WhatsApp).
+- 📧 Conta-te me através do e-mail: **julymss95@gmail.com** 
 - 🚀 Vamos nessa!! #TechGirl 🥰
 
 <div align= "center">
